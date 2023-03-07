@@ -23,7 +23,7 @@ Projeto feito com react, sass e js, permitindo que o usuário visualize uma gale
 - ``Link do projeto online:`` https://galeriamagens-react.vercel.app/
 
 
-Para rodar o projeto
+## Para rodar o projeto
 ### `npm install`
 ### `npm start`
 
