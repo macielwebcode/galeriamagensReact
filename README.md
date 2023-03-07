@@ -1,4 +1,5 @@
-# Projeto Galeria de Imagens com React
+## Projeto Galeria de Imagens com React
+Projeto desenvolvido com react, sass e js, permitindo que o usuário visualize uma galeria de imagens e possa filtra-las.
 
 <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 <img src="https://img.shields.io/static/v1?label=Vercel&message=deploy&color=blue&style=for-the-badge&logo=VERCEL"/>
