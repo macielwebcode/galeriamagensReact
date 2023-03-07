@@ -4,7 +4,7 @@ Projeto desenvolvido com react, sass e js, permitindo que o usuário visualize u
 <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 <img src="https://img.shields.io/static/v1?label=Vercel&message=deploy&color=blue&style=for-the-badge&logo=VERCEL"/>
 
-Status do Projeto: ✔️ (concluido)
+## Status do Projeto: ✔️ (concluido)
 
 ## Descrição
 Projeto feito com react, sass e js, permitindo que o usuário visualize uma galeria de imagens e consifa filtrar pelas Tags que estão na interface. O projeto consiste em uma página inicial estática que utiliza componentes.
