@@ -10,8 +10,8 @@ Projeto feito com react, sass e js, permitindo que o usuário visualize uma gale
 
 ✔️ Técnicas e tecnologias utilizadas
 - ``React``
-- ``SASS`
-- ``Javascript`
+- ``SASS``
+- ``Javascript``
 
 # :hammer: Funcionalidades do projeto
 
